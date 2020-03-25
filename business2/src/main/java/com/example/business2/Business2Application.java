@@ -4,8 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Business2Application {
-
+public class Business2Application {//1
     public static void main(String[] args) {
         SpringApplication.run(Business2Application.class, args);
     }
